@@ -4,10 +4,10 @@ var UnminedMapProperties = {
     maxZoom: 2,
     defaultZoom: 0,
     imageFormat: "webp",
-    minRegionX: -1,
+    minRegionX: -2,
     minRegionZ: -2,
-    maxRegionX: 1,
-    maxRegionZ: 0,
+    maxRegionX: 11,
+    maxRegionZ: 1,
     worldName: "world",
     background: "",
     markers: new Array()
